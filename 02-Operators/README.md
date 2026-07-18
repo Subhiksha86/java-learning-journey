@@ -1,22 +1,26 @@
 # 02 - Operators
 
-This folder contains my practice programs for Java operators as I progress through my Java learning journey.
+This folder contains my Java practice programs on operators.
 
 ---
 
 ## 📚 Topics Covered
 
 - ✅ Assignment Operators
-- ⏳ Relational Operators
+- ✅ Relational Operators
+- ✅ Logical Operators
 
 ---
 
-## 💻 Programs
+## 📖 What I Learned
 
-- `AssignmentOperators.java`
+- Understood how assignment operators update variable values.
+- Practiced comparing values using relational operators.
+- Learned to use logical operators (`&&`, `||`, `!`) in different conditions.
+- Experimented with different data types while writing programs.
 
 ---
 
-## 🎯 Key Takeaway
+## ✅ Status
 
-Assignment operators provide a shorter and more efficient way to update the value of a variable.
+Completed

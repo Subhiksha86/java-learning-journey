@@ -21,7 +21,7 @@ class AssignmentOperators {
         // Experimenting with different assignment operations
         num = num + 2;
         num = ++num + num++;
-        num = --num;
+        //num = --num;
 
         System.out.println(num);
     }

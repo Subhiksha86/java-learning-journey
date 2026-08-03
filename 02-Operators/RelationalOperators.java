@@ -26,8 +26,6 @@ public class RelationalOperators
 
         System.out.println( x != y);
     
-
-        
     }
     
 }
